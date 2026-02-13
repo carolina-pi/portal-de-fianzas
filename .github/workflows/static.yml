@@ -1,4 +1,0 @@
-# Archivo desactivado - usar deploy.yml en su lugar
-name: Disabled
-on:
-  workflow_dispatch:
